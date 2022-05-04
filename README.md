@@ -31,10 +31,11 @@
 
 …
 
-## 🛠️ Libraries
+## 🛠️ Libraries & Standards
 
 - [OpenBrush](https://openbrush.io/): OpenBrush is a library for smart contract development with ink!.
 - [PSP-22](https://github.com/w3f/PSPs/blob/master/PSPs/psp-22.md): Fungible Token Standard for Substrate's `contracts` pallet.
+- [py-substrate-interface](https://github.com/polkascan/py-substrate-interface/#ink-contract-interfacing): Library by Polkascan to interact with ink! contracts from Python.
 
 ## 🏦 DeFi
 

@@ -22,7 +22,7 @@
 ### Testnets
 
 - [Rococo Smart Contracts Parachain](https://paritytech.github.io/ink-docs/canvas): Operated by the developers behind ink! and Substrate's [`pallet-contracts`](https://github.com/paritytech/substrate/tree/master/frame/contracts).
-- [Shibuya](https://docs.astar.network/maintain/collator/shibuya-network): Testnet parachain by Astar. It is connected to a custom relaychain named Tokyo, maintained by Astar core team.
+- [Shibuya](https://docs.astar.network/maintain/collator/shibuya-network): Testnet parachain by Astar. It is connected to a custom relaychain named Tokyo, also maintained by Astar.
 - [Phala](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpara1-api.phala.network%2Fws%2F#/explorer): Documentation and link to the faucet can be found [here](https://github.com/Phala-Network/phala-docs/wiki/Phala-Testnet#phala-testnet-rorschach-incentive-program).
 - [Aleph Zero](https://alephzero.org/blog/smartnet-smart-contracts/): Support for ink! on their Smartnet testnet.
 - [peaq network](https://www.peaq.network/agung-testnet): ink! smart contracts are live on their testnet.

@@ -25,7 +25,7 @@
 - [Shibuya](https://docs.astar.network/maintain/collator/shibuya-network): Testnet parachain by Astar. It is connected to a custom relaychain named Tokyo, maintained by Astar core team.
 - Phala: TODO Add link
 - [Aleph Zero](https://alephzero.org/): Support for ink! on their [Smartnet](https://alephzero.org/blog/smartnet-smart-contracts/) testnet.
-- [peaq network](https://peaq.io): ink! Smart Contracts are live on their [testnet](https://www.peaq.network/agung-testnet)
+- [peaq network](https://peaq.io): ink! smart contracts are live on their [testnet](https://www.peaq.network/agung-testnet).
 
 ## :trophy: DApps
 

@@ -18,6 +18,16 @@
 <br/>
 
 
+## 😍 Networks where you can deploy ink! contracts
+
+### Testnets
+
+* [Rococo Smart Contracts Parachain](https://paritytech.github.io/ink-docs/canvas): Operated by the developers behind ink! and Substrate's [`pallet-contracts`](https://github.com/paritytech/substrate/tree/master/frame/contracts).
+* [Shibuya](https://docs.astar.network/maintain/collator/shibuya-network): Testnet parachain by Astar. It is connected to a custom relaychain named Tokyo,  maintained by Astar core team.
+* Phala: TODO Add link
+* Aleph Zero: TODO Add link
+
+
 ## :trophy: DApps
 
 …
@@ -26,7 +36,7 @@
 ## 🛠️ Libraries
 
 * [OpenBrush](https://openbrush.io/): OpenBrush is a library for smart contract development with ink!.
-
+* [PSP-22](https://github.com/w3f/PSPs/blob/master/PSPs/psp-22.md): Fungible Token Standard for Substrate's `contracts` pallet.
 
 ## 🏦 DeFi
 

@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./.images/ink-logo-glow.svg" alt="ink!" height="136" />
 <h1 align="center">
-    A curated list of awesome projects related to Parity's ink!.
+    A curated list of awesome projects for Parity's ink!.
 </h1>
 
 

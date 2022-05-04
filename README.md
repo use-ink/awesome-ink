@@ -10,7 +10,7 @@
 
 <br/>
 
-[The ink! Repository](https://github.com/paritytech/ink)&nbsp;&nbsp;•&nbsp;&nbsp;
+[ink! Repository](https://github.com/paritytech/ink)&nbsp;&nbsp;•&nbsp;&nbsp;
 [Guided Tutorial for Beginners](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1)&nbsp;&nbsp;•&nbsp;&nbsp;
 [ink! Documentation Portal](https://paritytech.github.io/ink-docs)
 </div>

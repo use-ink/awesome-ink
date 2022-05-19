@@ -26,6 +26,7 @@
 - [Phala](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpoc5.phala.network%2Fws#/explorer): Further documentation can be found [here](https://wiki.phala.network/en-us/build/developer/fat-contract-tutorial/).
 - [Aleph Zero](https://alephzero.org/blog/smartnet-smart-contracts/): Support for ink! on their Smartnet testnet.
 - [peaq network](https://www.peaq.network/agung-testnet): ink! smart contracts are live on their testnet.
+- [t3rn](https://www.t3rn.io/): Their testnet is called t0rn, the faucet can be found [here](https://dev.net.t3rn.io/faucet/).
 
 ## :trophy: DApps
 

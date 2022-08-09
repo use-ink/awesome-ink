@@ -19,6 +19,10 @@
 
 ## 😍 Networks where you can deploy ink! contracts
 
+### Production
+
+- [Shiden](https://shiden.astar.network): Kusama parachain by the Astar team, contains the `pallet-contracts` and thus supports ink! contracts.
+
 ### Testnets
 
 - [Rococo Smart Contracts Parachain](https://ink.substrate.io/testnet/): Operated by the developers behind ink! and Substrate's [`pallet-contracts`](https://github.com/paritytech/substrate/tree/master/frame/contracts).
@@ -47,6 +51,10 @@
 ## 👾 Gaming
 
 - [Open Emoji Battler](https://github.com/OpenEmojiBattler/open-emoji-battler/tree/main/front/src): Open Emoji Battler is a decentralized blockchain game, owned by the community, running on-chain. Deployed on Astar tesnet.
+
+## Migration Guides
+
+- [CosmWasm to ink! — Beyond the Cosmos 🌌](https://medium.com/@RoloiMoney/cosmwasm-to-ink-beyond-the-cosmos-e4920604f9cb)
 
 ## 🙌 Community Badges
 

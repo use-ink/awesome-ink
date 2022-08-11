@@ -43,6 +43,7 @@
 - [py-substrate-interface](https://github.com/polkascan/py-substrate-interface/#ink-contract-interfacing): Library by Polkascan to interact with ink! contracts from Python.
 - [hashes](https://github.com/RustCrypto/hashes): Collection of cryptographic hash functions written in pure Rust. (`no_std` needs to be enabled).
 - [data-encoding](https://github.com/ia0/data-encoding): Efficient and customizable data-encoding functions in Rust. (`no_std` needs to be enabled).
+- [ink-tips](https://github.com/Cerebellum-Network/ink-tips): Codebase structure and other tips.
 
 ## 🏦 DeFi
 

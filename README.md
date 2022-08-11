@@ -44,6 +44,10 @@
 - [hashes](https://github.com/RustCrypto/hashes): Collection of cryptographic hash functions written in pure Rust. (`no_std` needs to be enabled).
 - [data-encoding](https://github.com/ia0/data-encoding): Efficient and customizable data-encoding functions in Rust. (`no_std` needs to be enabled).
 
+## 🧰 Tools
+
+- [ink-doc-gen](https://github.com/Cerebellum-Network/ink-doc-gen): Generate documentation of ABIs from source code comments.
+
 ## 🏦 DeFi
 
 - [Build an AMM on Polkadot using ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink)

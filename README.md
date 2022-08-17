@@ -34,7 +34,7 @@
 
 ## :trophy: DApps
 
-…
+ - [Prosopo](https://www.prosopo.io/): Human verification on the blockchain, has a dapp example which is written in ink!: https://github.com/prosopo-io/dapp-example
 
 ## 🛠️ Libraries & Standards
 

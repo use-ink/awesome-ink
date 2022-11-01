@@ -34,7 +34,7 @@
 
 ## :trophy: DApps
 
-…
+- [Showcase dApps](https://github.com/AstarNetwork/wasm-showcase-dapps): Collection of production ready dApps (contracts + UI) ‒ Uniswap v2, Farming, NFT, …
 
 ## 🛠️ Libraries & Standards
 

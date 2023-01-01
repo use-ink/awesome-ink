@@ -34,7 +34,11 @@
 
 ## :trophy: DApps
 
+<<<<<<< HEAD
  - [Prosopo](https://www.prosopo.io/): Human verification on the blockchain, has a dapp example which is written in ink!: https://github.com/prosopo-io/dapp-example
+=======
+- [Showcase dApps](https://github.com/AstarNetwork/wasm-showcase-dapps): Collection of production ready dApps (contracts + UI) ‒ Uniswap v2, Farming, NFT, …
+>>>>>>> main
 
 ## 🛠️ Libraries & Standards
 

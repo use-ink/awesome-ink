@@ -34,6 +34,7 @@
 
 ## :trophy: DApps
 
+ - [Prosopo](https://www.prosopo.io/): Human verification on the blockchain, has a dapp example which is written in ink!: https://github.com/prosopo-io/dapp-example
 - [Showcase dApps](https://github.com/AstarNetwork/wasm-showcase-dapps): Collection of production ready dApps (contracts + UI) ‒ Uniswap v2, Farming, NFT, …
 
 ## 🛠️ Libraries & Standards
@@ -46,11 +47,14 @@
 
 ## 🏦 DeFi
 
+- [Panorama Swap](https://github.com/RottenKiwi/Panorama-Swap-INK-SC)
 - [Build an AMM on Polkadot using ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink)
 
 ## 👾 Gaming
 
 - [Open Emoji Battler](https://github.com/OpenEmojiBattler/open-emoji-battler/tree/main/front/src): Open Emoji Battler is a decentralized blockchain game, owned by the community, running on-chain. Deployed on Astar tesnet.
+
+## Privacy
 
 ## Migration Guides
 

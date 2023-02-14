@@ -31,6 +31,7 @@
 - [Aleph Zero](https://alephzero.org/blog/aleph-zero-smart-contracts-testnet/): Support for ink! smart contracts on their testnet.
 - [peaq network](https://www.peaq.network/agung-testnet): ink! smart contracts are live on their testnet.
 - [t3rn](https://www.t3rn.io/): Their testnet is called t0rn, the faucet can be found [here](https://faucet.t0rn.io).
+- [Pendulum](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc-foucoco.pendulumchain.tech#/extrinsics): The testnet is called Foucoco, there is no faucet currently.
 
 ## :trophy: DApps
 

@@ -35,8 +35,9 @@
 
 ## :trophy: DApps
 
- - [Prosopo](https://www.prosopo.io/): Human verification on the blockchain, has a dapp example which is written in ink!: https://github.com/prosopo-io/dapp-example
+- [Prosopo](https://www.prosopo.io/): Human verification on the blockchain, has a dapp example which is written in ink!: https://github.com/prosopo-io/dapp-example
 - [Showcase dApps](https://github.com/AstarNetwork/wasm-showcase-dapps): Collection of production ready dApps (contracts + UI) ‒ Uniswap v2, Farming, NFT, …
+- [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate with ink! smart contracts and a React frontend using the [useInkathon](https://github.com/scio-labs/use-inkathon) hooks library maintained by [Scio Labs](https://scio.xyz).
 
 ## 🛠️ Libraries & Standards
 
@@ -45,6 +46,7 @@
 - [py-substrate-interface](https://github.com/polkascan/py-substrate-interface/#ink-contract-interfacing): Library by Polkascan to interact with ink! contracts from Python.
 - [hashes](https://github.com/RustCrypto/hashes): Collection of cryptographic hash functions written in pure Rust. (`no_std` needs to be enabled).
 - [data-encoding](https://github.com/ia0/data-encoding): Efficient and customizable data-encoding functions in Rust. (`no_std` needs to be enabled).
+- [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by [Scio Labs](https://scio.xyz).
 
 ## 🏦 DeFi
 

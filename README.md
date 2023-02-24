@@ -57,6 +57,10 @@
 
 - [Open Emoji Battler](https://github.com/OpenEmojiBattler/open-emoji-battler/tree/main/front/src): Open Emoji Battler is a decentralized blockchain game, owned by the community, running on-chain. Deployed on Astar tesnet.
 
+## 🧭 Block Explorers
+
+- [Sirato Substrate](https://github.com/web3labs/epirus-substrate): Blockchain explorer for Substrate chains with a focus on the contracts pallet and ink!. There's a [public development instance](https://substrate.sirato.xyz/) connected to Rococo Contracts.
+
 ## Privacy
 
 ## Migration Guides

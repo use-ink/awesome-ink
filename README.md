@@ -61,6 +61,10 @@
 
 - [Sirato Substrate](https://github.com/web3labs/epirus-substrate): Blockchain explorer for Substrate chains with a focus on the contracts pallet and ink!. There's a [public development instance](https://substrate.sirato.xyz/) connected to Rococo Contracts.
 
+## :adult: Identity/DID	
+
+- [AZERO.ID](https://github.com/azero-id/contracts): Your digital identity in one domain 
+
 ## Privacy
 
 ## Migration Guides

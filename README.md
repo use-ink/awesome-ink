@@ -48,6 +48,10 @@
 - [data-encoding](https://github.com/ia0/data-encoding): Efficient and customizable data-encoding functions in Rust. (`no_std` needs to be enabled).
 - [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by [Scio Labs](https://scio.xyz).
 
+## :office: DAO 
+
+- [Syncra DAO](https://github.com/SyncraDAO/modular-dao): Modular-dao is a set of traits with default implementations built using ink! and OpenBrush that can be used to create customized DAOs.
+
 ## 🏦 DeFi
 
 - [Panorama Swap](https://github.com/RottenKiwi/Panorama-Swap-INK-SC)

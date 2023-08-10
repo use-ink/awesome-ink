@@ -50,6 +50,7 @@
 - [`useink`](https://use.ink/frontend/overview) - An ergonomic typesafe React Hooks library for ink! contracts and Substrate chains. Supports multi-chain. Maintained by [The ink! team](https://use.ink)
 - [DRink!](https://github.com/Cardinal-Cryptography/drink/) - Library for light, chainless local ink! development. Equipped with a friendly TUI.
 - [ink-wrapper](https://github.com/Cardinal-Cryptography/ink-wrapper/) - Tool generating typed wrappers for calling contracts through node's API.
+- [ink! Analyzer](https://github.com/ink-analyzer) - A collection of modular and reusable libraries and tools for semantic analysis of ink! smart contract code.
 
 ## 🏦 DeFi
 

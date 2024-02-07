@@ -47,7 +47,6 @@
 - [hashes](https://github.com/RustCrypto/hashes): Collection of cryptographic hash functions written in pure Rust. (`no_std` needs to be enabled).
 - [data-encoding](https://github.com/ia0/data-encoding): Efficient and customizable data-encoding functions in Rust. (`no_std` needs to be enabled).
 - [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by [Scio Labs](https://scio.xyz).
-- [`useink`](https://use.ink/frontend/overview) - An ergonomic typesafe React Hooks library for ink! contracts and Substrate chains. Supports multi-chain. Maintained by [The ink! team](https://use.ink)
 - [DRink!](https://github.com/Cardinal-Cryptography/drink/) - Library for light, chainless local ink! development. Equipped with a friendly TUI.
 - [ink-wrapper](https://github.com/Cardinal-Cryptography/ink-wrapper/) - Tool generating typed wrappers for calling contracts through node's API.
 

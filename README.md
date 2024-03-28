@@ -51,6 +51,10 @@
 - [ink-wrapper](https://github.com/Cardinal-Cryptography/ink-wrapper/) - Tool generating typed wrappers for calling contracts through node's API.
 - [ink! Analyzer](https://github.com/ink-analyzer) - A collection of modular and reusable libraries and tools for semantic analysis of ink! smart contract code.
 
+## :office: DAO 
+
+- [Syncra DAO](https://github.com/SyncraDAO/modular-dao): Modular-dao is a set of traits with default implementations built using ink! and OpenBrush that can be used to create customized DAOs.
+
 ## 🏦 DeFi
 
 - [Panorama Swap](https://github.com/RottenKiwi/Panorama-Swap-INK-SC)

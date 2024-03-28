@@ -49,6 +49,7 @@
 - [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by [Scio Labs](https://scio.xyz).
 - [DRink!](https://github.com/Cardinal-Cryptography/drink/) - Library for light, chainless local ink! development. Equipped with a friendly TUI.
 - [ink-wrapper](https://github.com/Cardinal-Cryptography/ink-wrapper/) - Tool generating typed wrappers for calling contracts through node's API.
+- [ink! Analyzer](https://github.com/ink-analyzer) - A collection of modular and reusable libraries and tools for semantic analysis of ink! smart contract code.
 
 ## 🏦 DeFi
 

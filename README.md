@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./.images/ink-logo-glow.svg" alt="ink!" height="136" />
 <h1 align="center">
-    A curated list of awesome projects for Parity's ink!.
+    A curated list of awesome projects for Polkadot's ink!.
 </h1>
 
 > <img src="./.images/ink-squid.svg" alt="Squink, the ink! mascot" align="left" height="60" />
@@ -9,9 +9,9 @@
 
 <br/>
 
-[ink! Repository](https://github.com/paritytech/ink)&nbsp;&nbsp;•&nbsp;&nbsp;
-[Guided Tutorial for Beginners](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1)&nbsp;&nbsp;•&nbsp;&nbsp;
-[ink! Documentation Portal](https://paritytech.github.io/ink-docs)
+[ink! Repository](https://github.com/use-ink/ink)&nbsp;&nbsp;•&nbsp;&nbsp;
+[Guided Tutorial for Beginners](https://use.ink/getting-started/setup)&nbsp;&nbsp;•&nbsp;&nbsp;
+[ink! Documentation Portal](https://use.ink)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ### Testnets
 
-- [Rococo Smart Contracts Parachain](https://ink.substrate.io/testnet/): Operated by the developers behind ink! and Substrate's [`pallet-contracts`](https://github.com/paritytech/substrate/tree/master/frame/contracts).
+- [Rococo Smart Contracts Parachain](https://ink.substrate.io/testnet/): Operated by the developers behind ink! and Substrate's [`pallet-contracts`](https://github.com/use-ink/substrate/tree/master/frame/contracts).
 - [Shibuya](https://docs.astar.network/docs/build/builder-guides/xvm_wasm/manage_psp22_asset): Testnet parachain by [Astar](https://astar.network/), connected to a custom relaychain also maintained by Astar.
 - [Phala](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpoc5.phala.network%2Fws#/explorer): Further documentation can be found [here](https://wiki.phala.network/en-us/build/developer/fat-contract-tutorial/).
 - [Aleph Zero](https://alephzero.org/blog/aleph-zero-smart-contracts-testnet/): Support for ink! smart contracts on their testnet.
@@ -78,16 +78,16 @@
 
 ### Normal Design
 
-[![Built with ink!](.images/badge.svg)](https://github.com/paritytech/ink)
+[![Built with ink!](.images/badge.svg)](https://github.com/use-ink/ink)
 
 ```markdown
-[![Built with ink!](https://raw.githubusercontent.com/paritytech/ink/master/.images/badge.svg)](https://github.com/paritytech/ink)
+[![Built with ink!](https://raw.githubusercontent.com/use-ink/ink/master/.images/badge.svg)](https://github.com/use-ink/ink)
 ```
 
 ### Flat Design
 
-[![Built with ink!](.images/badge_flat.svg)](https://github.com/paritytech/ink)
+[![Built with ink!](.images/badge_flat.svg)](https://github.com/use-ink/ink)
 
 ```markdown
-[![Built with ink!](https://raw.githubusercontent.com/paritytech/ink/master/.images/badge_flat.svg)](https://github.com/paritytech/ink)
+[![Built with ink!](https://raw.githubusercontent.com/use-ink/ink/master/.images/badge_flat.svg)](https://github.com/use-ink/ink)
 ```
